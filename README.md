@@ -8,8 +8,10 @@ Resultant words are displayed where each boundaries of each word is
 identified by the delimiters array.
 
 To build and run:
+```console
     gcc -Wall -Wextra -Werror fuzzysearch.c -o fuzzysearch
     ./fuzzysearch
+```
 
 All the code is available in Creative Commons Zero License.
 More information at: http://creativecommons.org/publicdomain/zero/1.0/
